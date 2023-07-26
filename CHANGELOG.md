@@ -1,3 +1,11 @@
+## [1.4.0] - 2023-07-26
+### Updates
+- update to Angular 15
+- update all dependencies to match the Angular 15 version
+- tsconfig, angular.json updated
+- build issue fixed
+- cosmetic issues fixed
+
 ## [1.3.0] - 2022-04-29
 ### Updates
 - update to Angular 13
